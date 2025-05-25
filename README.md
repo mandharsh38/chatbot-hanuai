@@ -33,6 +33,7 @@
     NOTE: Model overall is not very good, partly due to limited dataset and unoptimised training args. GPT based model would have performed better but with the downside of requiring more resources and training time.
 
 6. Flask App
+
     -Run app
 
         python app.py
