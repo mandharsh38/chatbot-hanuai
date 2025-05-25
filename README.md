@@ -14,21 +14,21 @@
 
     Requirement- dataset.json
 
-    python datasetPrep.py 
+        python datasetPrep.py 
 
     (this will generate train.csv and label_to_answer.json files)
 
 3. Test CUDA: 
 
-    python cudaTest.py
+        python cudaTest.py
 
 4. Train model (already trained and saved in models/ directory):
 
-    python train.py
+        python train.py
 
 5. Run inference in CLI
 
-    python chatbot.py
+        python chatbot.py
 
     NOTE: Model overall is not very good, partly due to limited dataset and unoptimised training args. GPT based model would have performed better but with the downside of requiring more resources and training time.
 
@@ -40,4 +40,4 @@
     -test api endpoint
 
         curl -X POST http://localhost:5000/chat -H "Content-Type: application/json" -d "{\"query\":\"What is PPE detection?\"}"
-        
+
