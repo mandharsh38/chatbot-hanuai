@@ -1,0 +1,238 @@
+question,label
+What is PPE detection?,0
+Why is PPE detection important?,1
+Which PPE items can the system detect?,2
+How does the system detect worker falls?,3
+What happens after a fall is detected?,4
+Can the system differentiate between a fall and sitting down?,5
+What is the Red Zone Worker Alert system?,6
+How does the system define a Red Zone?,7
+What kind of alerts does the system send?,8
+Can workers be identified individually?,9
+Can the AI system monitor workers at height?,10
+What technologies are used in fall and height detection?,11
+What is heavy vehicle threat detection?,12
+Can it predict accidents involving heavy vehicles?,13
+Is the system useful in noisy environments?,14
+Can data be reviewed after incidents?,15
+Is real-time monitoring available?,16
+How is this system better than manual monitoring?,17
+Can this be integrated with existing CCTV infrastructure?,18
+Does the system ensure compliance with safety regulations?,19
+How does AI handle low-light or night conditions?,20
+Can the system detect improper use of PPE?,21
+Is the system customizable for different industries?,22
+What is pose estimation in workplace safety?,23
+How quickly does the system send alerts?,24
+Does the system support multilingual alerts?,25
+Can AI systems help in safety training?,26
+Is worker privacy maintained?,27
+How does the system handle false positives?,28
+Can the system track PPE compliance over time?,29
+How are heavy vehicle zones monitored?,30
+What hardware is required for deployment?,31
+How does the system support incident investigations?,32
+Can the AI system adapt to new safety rules?,33
+Is mobile access available for supervisors?,34
+Does the system detect safety violations outside work hours?,35
+Can AI detect hazardous material spills?,36
+Is the system scalable for large industrial sites?,37
+What role does machine learning play in this system?,38
+Can the system monitor multiple workers simultaneously?,39
+What is the accuracy rate of PPE detection?,40
+How is data security handled?,41
+Can the system provide predictive analytics?,42
+Does the system integrate with emergency response protocols?,43
+What types of cameras are compatible?,44
+Is cloud deployment an option?,45
+How are alerts prioritized?,46
+Can the system analyze worker fatigue?,47
+Does the system comply with data privacy laws?,48
+How does the system support continuous improvement?,49
+Can AI detect unauthorized equipment use?,50
+What are the benefits of automated safety monitoring?,51
+Is training required to operate the system?,52
+Can the system detect hand safety violations?,53
+Does the AI recognize changes in safety protocols?,54
+Can it identify near-miss incidents?,55
+Is there support for real-time video playback?,56
+What types of workplaces benefit most from this system?,57
+How does the system improve worker accountability?,58
+Can the system monitor social distancing on-site?,59
+Does it support wearable device integration?,60
+How are safety dashboards customized?,61
+Can AI detect smoke or fire hazards?,62
+What is the response time after alert generation?,63
+Are alerts sent via multiple channels?,64
+How does the system help with regulatory audits?,65
+Can it detect unsafe weather conditions?,66
+Is there a limit to the number of monitored cameras?,67
+Does the system support AI model updates remotely?,68
+Can supervisors assign actions after alerts?,69
+How is worker feedback incorporated?,70
+Can the system detect PPE damage?,71
+Are there API integrations available?,72
+What training data is used for AI models?,73
+Does the system support multi-site monitoring?,74
+Can it detect repetitive unsafe behavior?,75
+How are alerts escalated?,76
+Can the system integrate with voice assistants?,77
+What is the cost benefit of AI safety systems?,78
+Is system downtime possible?,79
+How does AI differentiate between PPE colors?,80
+Are real workers involved in AI training?,81
+Can AI detect behavioral signs of intoxication?,82
+Is the system suitable for outdoor and indoor environments?,83
+Does the system monitor equipment maintenance compliance?,84
+Can it track environmental hazards like gas leaks?,85
+How often is the AI model retrained?,86
+Are safety alerts logged for legal purposes?,87
+Can the system generate daily safety reports?,88
+How does AI help reduce workplace fatalities?,89
+Does AI assist in emergency evacuation procedures?,90
+Is the system compatible with legacy infrastructure?,91
+Can it detect PPE in challenging weather conditions?,92
+What happens if a worker repeatedly ignores alerts?,93
+Is there a user-friendly interface?,94
+Can the AI system detect unauthorized drone usage?,95
+How does AI assist with PPE inventory management?,96
+Can the system detect emergency exits being blocked?,97
+Is worker training data kept confidential?,98
+Does the system require internet connectivity?,99
+Can the system identify PPE based on brand or model?,100
+How does AI handle varying PPE designs?,101
+Are safety alerts prioritized by risk level?,102
+Does the system detect vehicle proximity to workers?,103
+How does AI improve over traditional sensors?,104
+Can it integrate with wearable safety devices?,105
+Are there mobile apps for worker safety?,106
+Does the system support voice alerts?,107
+How does AI detect unusual worker behavior?,108
+What industries benefit from heavy vehicle threat detection?,109
+Is training data updated with site-specific conditions?,110
+Can the system monitor equipment usage times?,111
+Does the AI monitor crowd density on-site?,112
+Are there provisions for alert fatigue management?,113
+Can AI detect PPE tampering?,114
+Does the system track corrective actions post-alert?,115
+How does AI assist in risk assessment?,116
+Is there support for multi-language user interfaces?,117
+Can the system monitor PPE storage compliance?,118
+Does the AI system reduce insurance costs?,119
+Are safety alerts integrated with on-site alarms?,120
+Can the system detect worker proximity to hazardous machinery?,121
+How is the system maintained?,122
+Does AI monitor mental health indicators?,123
+Is AI used to optimize workplace layout for safety?,124
+Can the system detect safety signage compliance?,125
+Does the system support integration with health and safety management systems?,126
+Can AI detect when PPE is shared improperly?,127
+What is the impact of AI on workplace culture?,128
+Are there case studies showing AI safety benefits?,129
+How does AI handle occluded workers in video feeds?,130
+Can the system monitor fatigue from shift durations?,131
+Is the system cost-effective for small businesses?,132
+How is AI safety system ROI measured?,133
+Can AI detect PPE compliance during emergencies?,134
+Does AI support remote safety audits?,135
+Are real-time alerts configurable by user?,136
+How does AI improve emergency response times?,137
+Can AI detect dangerous proximity of workers to live electrical equipment?,138
+Does the system support integration with building management systems?,139
+Is AI useful for ongoing safety compliance monitoring?,140
+Can AI detect environmental hazards like wet floors?,141
+How does AI handle multiple concurrent safety events?,142
+Is historical safety data accessible for analysis?,143
+Does the system alert for unauthorized vehicle entry?,144
+Can AI identify safety improvements after implementation?,145
+Are wearable sensors complementary to AI video monitoring?,146
+Does AI help in identifying root causes of accidents?,147
+Can AI detect when workers bypass safety protocols?,148
+Is AI monitoring effective in low-visibility conditions?,149
+How is worker consent managed?,150
+Can the system monitor PPE usage breaks?,151
+Are AI safety systems tested regularly?,152
+Does AI help reduce workersâ€™ compensation claims?,153
+Can AI detect improper lifting techniques?,154
+Is data from AI safety systems shared externally?,155
+How do workers receive safety alerts?,156
+Can AI detect PPE removal during hazardous tasks?,157
+Are AI safety systems compatible with hazardous environments?,158
+Does the system offer predictive maintenance alerts?,159
+Can AI identify unsafe speed of heavy vehicles?,160
+Does the system support facial recognition?,161
+How does AI support worker wellness?,162
+Can AI monitor vehicle blind spots?,163
+Is AI useful for managing subcontractor safety?,164
+Can AI detect fall hazards like open pits?,165
+Are safety alerts logged with location data?,166
+How does AI help in behavioral safety programs?,167
+Does AI support integration with wearables measuring vitals?,168
+Is AI monitoring accepted by workers?,169
+How does AI reduce manual safety audits?,170
+Can AI detect PPE contamination?,171
+Are alerts customizable by severity and type?,172
+Does AI assist in managing workplace ergonomics?,173
+Is AI useful in emergency drills?,174
+Can AI detect safety gear expiration?,175
+How is AI safety monitoring funded?,176
+Does AI help in environmental compliance?,177
+Can the system handle multi-language alerts?,178
+Does AI track vehicle maintenance for safety?,179
+Can AI detect if PPE is shared between shifts?,180
+Are AI safety systems cloud-based?,181
+Does AI detect distracted driving of heavy vehicles?,182
+Is AI useful in managing chemical safety?,183
+How are AI safety systems deployed?,184
+Can AI identify emergency equipment accessibility?,185
+Does AI help reduce near-miss incidents?,186
+Is worker training enhanced by AI insights?,187
+Can AI detect if workers use PPE correctly during breaks?,188
+Does AI support reporting to regulatory bodies?,189
+Is the system adaptable to new safety standards?,190
+How is worker privacy protected in AI monitoring?,191
+Can AI detect unauthorized PPE removal?,192
+Are AI safety solutions scalable?,193
+Does AI support integration with emergency response teams?,194
+Can AI monitor construction site perimeter breaches?,195
+Is AI effective in high-noise environments?,196
+How does AI assist in fatigue management?,197
+Can AI identify unsafe manual handling?,198
+Does AI monitor PPE in confined spaces?,199
+Are AI systems compatible with legacy safety equipment?,200
+How is AI safety system data visualized?,201
+Does AI detect PPE damage?,202
+Can AI safety systems predict hazardous events?,203
+Is worker feedback incorporated into AI safety tools?,204
+Does AI help in managing worker certifications?,205
+Can AI monitor hazardous material handling?,206
+Are AI systems tested for false positive rates?,207
+Does AI support wearable device alerts?,208
+Can AI detect fall hazards caused by clutter?,209
+Is AI used to monitor site cleanliness?,210
+Does AI support incident investigation?,211
+Can AI detect PPE removal during machine operation?,212
+How is AI safety system data secured?,213
+Does AI support integration with IoT sensors?,214
+Can AI detect unauthorized vehicle parking?,215
+Is AI helpful in monitoring hazardous gas exposure?,216
+Does AI assist in compliance training refreshers?,217
+Can AI monitor PPE in cold environments?,218
+How does AI contribute to sustainability in safety?,219
+Does AI monitor worker entry and exit times?,220
+Can AI detect unsafe use of ladders?,221
+Is AI used to monitor PPE cleaning procedures?,222
+Does AI improve communication during emergencies?,223
+Can AI monitor PPE use in wet conditions?,224
+How does AI handle false negatives?,225
+Is AI compatible with existing safety workflows?,226
+Can AI detect unauthorized PPE removal by visitors?,227
+Does AI support multi-site safety monitoring?,228
+Can AI identify when PPE is improperly stored?,229
+Does AI assist in PPE inventory management?,230
+Is AI safety monitoring effective in outdoor environments?,231
+How does AI handle language barriers in alerts?,232
+Can AI detect improper PPE sizing?,233
+Are AI safety systems user-friendly?,234
+Does AI monitor PPE usage during night shifts?,235
+Can AI detect when workers enter hazardous zones without PPE?,236

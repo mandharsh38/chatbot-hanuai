@@ -1,0 +1,8 @@
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+flask
+sentence-transformers
