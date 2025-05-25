@@ -22,7 +22,7 @@
 
         python cudaTest.py
 
-4. Train model (already trained and saved in models/ directory):
+4. Train model (already trained model to be downloaded from drive link, put models/ folder in the root directory):
 
         python train.py
 
